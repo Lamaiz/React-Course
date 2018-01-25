@@ -58,7 +58,57 @@ Slide url : https://github.com/Kzis/React-Course/tree/master/Presentation
   - Responsive Design
   - Media Quries
   - Deploy with Github pages
-- [ ] WEEK3 : Introduction to javascript
+- [x] WEEK3 : Introduction to javascript
+  - Why Syudy JavaScript
+  - JavaScript Can Change HTML Attributes
+  - JavaScript Can Change HTML Styles (CSS)
+  - Inline , Internal , External JavaScript
+  - JavaScript Syntax
+  - JavaScript Comments
+  - JavaScript is Case Sensitive
+  - JavaScript and Camel Case
+  - JavaScript Variables
+  - JavaScript Data Types
+  - JavaScript Types are Dynamic
+  - The typeof Operator , Primitive Data , Complex Data
+  - Undefined , Null
+  - Difference Between Undefined and Null
+  - JavaScript Arithmetic Operators
+  - JavaScript Assignment Operators
+  - JavaScript Comparison Operators
+  - JavaScript Logical Operators
+  - JavaScript Functions   
+  - JavaScript Objects
+  - Object Properties
+  - Object Methods
+  - Object Definition
+  - Accessing Object Properties
+  - Accessing Object Methods
+  - JavaScript Function Scope
+  - Local JavaScript Variables
+  - Global JavaScript Variables
+  - JavaScript Arrays
+  - Creating an Array
+  - Access the Elements of an Array
+  - JavaScript If...Else Statements
+  - The if Statement
+  - The else Statement
+  - The else if Statement
+  - JavaScript For Loop
+  - The For/In Loop
+  - JavaScript While Loop
+  - Comparing For and While
+  - JavaScript Forms Validation
+  - JavaScript Can Validate Numeric Input
+  - JSON
+  - JavaScript JSON
+  - JSON Example
+  - JSON Syntax Rules
+  - JSON Data - A Name and a Value
+  - JSON Objects
+  - JSON Arrays
+  - Converting a JSON Text to a JavaScript Object
+
 - [ ] WEEK4 : Javscript Asynchronous Action
 - [ ] WEEK5 : Javscript Functional Programming
 - [ ] WEEK6 : -
