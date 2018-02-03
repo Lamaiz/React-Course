@@ -84,33 +84,6 @@ console.log('       obj1.a ไม่เปลี่ยนเนื่องจ�
 console.log('')
 console.log('')
 
-/*
-CreateTree = (input,level) => {
-    let root = input.substring(1, 2)
-    let test 
-    let check = 0
-    centerPoint = 0
-    for(let i = 2 ; i< input.length ; i++){
-        test = input.substring(i, i+1) 
-        switch(test) {
-            case "(":
-                check++
-                break;
-            case ")":
-                check--
-                break;
-            default:
-                
-        }
-        if(check==0 && centerPoint==0 ) {
-            var childLeft = input.substring(2,i+1)
-            centerPoint = i+1 
-        }else if(check == 0){
-            var childRight = input.substring(2,i+1)
-        }
-    }
-}
-*/
 LevelSum = (tree,k) =>{
     let result = 0
     let level = 0
