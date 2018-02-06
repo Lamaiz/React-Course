@@ -58,10 +58,94 @@ Slide url : https://github.com/Kzis/React-Course/tree/master/Presentation
   - Responsive Design
   - Media Quries
   - Deploy with Github pages
-- [ ] WEEK3 : Introduction to javascript
-- [ ] WEEK4 : Javscript Asynchronous Action
-- [ ] WEEK5 : Javscript Functional Programming
-- [ ] WEEK6 : -
+- [x] WEEK3 : Introduction to javascript
+  - Why Syudy JavaScript
+  - JavaScript Can Change HTML Attributes
+  - JavaScript Can Change HTML Styles (CSS)
+  - Inline , Internal , External JavaScript
+  - JavaScript Syntax
+  - JavaScript Comments
+  - JavaScript is Case Sensitive
+  - JavaScript and Camel Case
+  - JavaScript Variables
+  - JavaScript Data Types
+  - JavaScript Types are Dynamic
+  - The typeof Operator , Primitive Data , Complex Data
+  - Undefined , Null
+  - Difference Between Undefined and Null
+  - JavaScript Arithmetic Operators
+  - JavaScript Assignment Operators
+  - JavaScript Comparison Operators
+  - JavaScript Logical Operators
+  - JavaScript Functions   
+  - JavaScript Objects
+  - Object Properties
+  - Object Methods
+  - Object Definition
+  - Accessing Object Properties
+  - Accessing Object Methods
+  - JavaScript Function Scope
+  - Local JavaScript Variables
+  - Global JavaScript Variables
+  - JavaScript Arrays
+  - Creating an Array
+  - Access the Elements of an Array
+  - JavaScript If...Else Statements
+  - The if Statement
+  - The else Statement
+  - The else if Statement
+  - JavaScript For Loop
+  - The For/In Loop
+  - JavaScript While Loop
+  - Comparing For and While
+  - JavaScript Forms Validation
+  - JavaScript Can Validate Numeric Input
+  - JSON
+  - JavaScript JSON
+  - JSON Example
+  - JSON Syntax Rules
+  - JSON Data - A Name and a Value
+  - JSON Objects
+  - JSON Arrays
+  - Converting a JSON Text to a JavaScript Object
+
+- [x] WEEK4 : Javascript ES2015(ES6)
+- Hoist or Hoisting in JavaScript 
+- Local Scope & Global Scope 
+- Compare Variable Declaration & Assigment 
+- var is function-scoped
+- let & const is block-scoped
+- Different between let & const 
+- Arrow Function
+- Example Arrow Function 
+- New Object(ES6)
+- Spread & Rest ES6
+- Spread Operator
+- Spread Operator Number
+- Spread Operator String
+- Slide = Copy
+- Spread into arguments
+- Rest Operator
+- Destructuring ES6
+- Destructuring Array
+- Destructuring Object
+- Destructuring Tip & Trick
+- Default Parameter
+- Default Parameter(Array)
+- Default Parameter(Object)
+- Default Parameter Tip & Trick
+- Classes ES6
+- Constructor & Getter/Setter
+- Inheritance 
+- Modules ES6
+- Common js modules
+- Common es modules
+- Name export
+- Function export
+- Code Lab ES6
+
+- [ ] WEEK5 : Javscript Asynchronous Action
+- [ ] WEEK6 : Javscript Functional Programming
 - [ ] WEEK7 : Introduction to ReactJS
 - [ ] WEEK8 : ReactJS
 - [ ] WEEK9 : ReactJS With Reduct
