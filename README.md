@@ -166,7 +166,28 @@ Slide url : https://github.com/Kzis/React-Course/tree/master/Presentation
   - Fetch
   - XHR vs jQuery vs Fetch
 
-- [ ] WEEK6 : Javscript Functional Programming
+- [x] WEEK6 : Javscript Functional Programming
+  - Functional ? 
+  - Functional Programming ? 
+  - OO VS Functional
+  - Pure Function 
+  - First-Class Function 
+  - High-Order Function
+  - Side Effects 
+  - Side Effects : Mutation
+  - Immutable & Mutable Function
+  - Currying Functional
+  - Currying Functional JavaScript
+  - Compose Function
+  - Compose Function Javascript
+  - Array Method For Functional Programming 
+  - ForEach
+  - Map
+  - Filter
+  - Reduce
+  - Library
+  - Rabmda.js
+  
 - [ ] WEEK7 : Introduction to ReactJS
 - [ ] WEEK8 : ReactJS
 - [ ] WEEK9 : ReactJS With Reduct
